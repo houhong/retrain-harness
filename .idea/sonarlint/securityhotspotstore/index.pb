@@ -37,3 +37,5 @@ S
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 R
 "doc/trd/01_核心层_turn循环.md,e/d/ed4e7f9810a272b24c13f34ab2908b18ebf9e21a
+J
+doc/trd/04_评估体系.md,6/d/6d17d9144cb0f8a6efd4aeb8b5d5245334909e99
