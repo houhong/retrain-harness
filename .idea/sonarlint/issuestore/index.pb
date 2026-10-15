@@ -9,12 +9,8 @@ D
 doc/trd/00_ÊÄªËßà.md,9/4/94ea2bff4c99e0de9d77bb8a067c5397a5f36f1d
 w
 G.idea/sonarlint/issuestore/7/7/77a4c9ecfcab50c62776c9d6d26e3fa92072e7c8,8/8/88a1070eae21aa6f2c8524cf1f7352901f726abe
-w
-G.idea/sonarlint/issuestore/2/d/2d67b1f54001d122109f61d67e982f588aeb5d90,9/1/9145180e97881417af1123580d0218f642e1ee80
 Å
 Q.idea/sonarlint/securityhotspotstore/9/4/94ea2bff4c99e0de9d77bb8a067c5397a5f36f1d,4/7/47f113006b2db0022363de0e5afcffa59bf30728
-Å
-Q.idea/sonarlint/securityhotspotstore/2/d/2d67b1f54001d122109f61d67e982f588aeb5d90,d/7/d749b16fc02c9f84d505b202f45d39ac7cfa91fc
 Å
 Q.idea/sonarlint/securityhotspotstore/7/7/77a4c9ecfcab50c62776c9d6d26e3fa92072e7c8,4/7/4718181b4f6ab201bf6c201ec1430a89375eb39a
 w
